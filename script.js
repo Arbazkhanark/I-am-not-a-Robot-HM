@@ -49,6 +49,7 @@ submit.addEventListener("click",function confirm(){
                         break;
                     }else{
                         prompt("Having trouble to identify, Need 'specs' 👓👓👓?");
+                        break;
                     }
                 }
             }
