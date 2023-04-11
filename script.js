@@ -46,6 +46,7 @@ submit.addEventListener("click",function confirm(){
                     console.log(randomPic);
                     if(select[i].alt==randomPic){
                         alert("Thanks for Confirmation, That you are not a ROBOT 🤖🤖🤖");
+                        break;
                     }else{
                         prompt("Having trouble to identify, Need 'specs' 👓👓👓?");
                     }
