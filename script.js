@@ -25,8 +25,6 @@ for(let i of images){
 
 
 submit.addEventListener("click",function confirm(){
-    
-
     let allSelected=[];
     for(let i=0;i<images.length;i++){
         let str="";
