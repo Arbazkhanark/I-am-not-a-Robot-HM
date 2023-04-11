@@ -57,3 +57,10 @@ submit.addEventListener("click",function confirm(){
         arr=[];
     }
 });
+
+
+
+// Refresh Function =>reload
+function refreshPage(){
+    window.location.reload();
+} 
